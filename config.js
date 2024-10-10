@@ -17,9 +17,9 @@ global.github = process.env.GITHUB || "https://github.com/Toputech/Topu-ai";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/13f1bb945857eb9b1eca6.jpg";
-global.devs = "255673750170";
-global.sudo = process.env.SUDO || "255673750170";
-global.owner = process.env.OWNER_NUMBER || "255673750170";
+global.devs = "2349049482627";
+global.sudo = process.env.SUDO || "2349049482627";
+global.owner = process.env.OWNER_NUMBER || "2349049482627";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "true";
@@ -42,17 +42,17 @@ global.scan = "https://rb.gy/nl69nj";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUNvajlCR2xVNGtobWp1THFjWlpseExNKzllb24zbFBYSW1CTEFaOXhrYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRk40UmNndFJWNmcxdXp3Ri9YdDVJL2ErYWtLM0NQKzBjU3ZCbzRVUkUwRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4SXMxS2tRMHBYL01sMGptQVk2UlVLK3IvVFM4SlREZWF1YVFSenkxMFg0PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ6WW1rN2hWS2N4WEtTMTgyNnpNcHBpWmdRaTZkTGpOZXo5L3VMYVJ2Tm13PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjBCdHFRYjA1QU11YUV1azkzbkxRMVExdTRVampjSW1iUVM0cHNaakZuVlk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im9MZTU5SytEVFRUNnA5cTNnbEpJcEZDYVFYYi9GU25ucy8rVGRwa3QrU3c9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUNsNGRaVkFVV0dFbEc1dkpFUU43YTFQd1E0OUFQMVErZWZKeTJYeHltVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlZuZ3VDMTU5cDRHSzdVQnZSUmJWRFBjRVN4ajk0ZjhaNEZaaHZwdGhYYz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkQvTll4UmVidy9UMnB2YzRITUhrMzUxckxnKzRwc1ZqcUgxeXRLUnc3NG45ZnJIWC9Jd2pHMjgwWHRBMjBqSE9CTWloZ0lWUnVncHdlYXU1QXRPdmdRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6ODYsImFkdlNlY3JldEtleSI6IkVXRkJwT1VRd2ppOThyVFd5cUxOSFVCZzdzVE1DV2hoVjlwMHIwN2svTzA9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Ik5vaHhWOExWUTRpUW5RbWZhdV9USWciLCJwaG9uZUlkIjoiYzJhODRlOGEtNmI4MC00MzgzLWI2MmUtMGYyZTkwNWMyMGYyIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlRQQzNBS2cya1d2R296aGwzL21vUmV6MG8rVT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJkSU9DNHE3aFRTcld2RzBnUzJnLy9pYVJvYms9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiQkNTODdRS1oiLCJtZSI6eyJpZCI6IjIzNDkwNDk0ODI2Mjc6MTJAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiTUVNRVMifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0wzTzJKOEVFTkR1bnJnR0dETWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImRUdGxwYUpvUlJFM2lWOTlVei8vVjQ4d3lpdVBoYmg1bWVhMUx0bEZHbFU9IiwiYWNjb3VudFNpZ25hdHVyZSI6IklqcjlxMzdNRUEzYmRyd2gyR0lVaDRHYVFOMnhodEgwUFV6VVEwdnBqYzd4R2Z0MS9YY3JxcmZxZThPanJYOVJUOC9qcmJlRHZxYnJDaHlIcjR1N0FnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiI0UWx1bzR6b0czU2FaVXJXT094Tk94WnZCS0VmZlgxQkRtRDYrWCtDa2xxcG55eGo4NmYrUjJxbHRnWS9tWUR4ZWxQRmhJZmdZOUNDbmV4YTJ6dzVndz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzNDkwNDk0ODI2Mjc6MTJAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWFU3WmFXaWFFVVJONGxmZlZNLy8xZVBNTW9yajRXNGVabm10UzdaUlJwViJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyODU1ODk0OX0="
 module.exports = {
   menu: process.env.MENU || "",
-  HANDLERS: process.env.PREFIX || ".",
+  HANDLERS: process.env.PREFIX || ",",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝖂𝖔𝖜 𝖙𝖔𝖕𝖚 𝖒𝖉 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖌𝖊𝖓𝖊𝖗𝖆𝖙𝖊𝖉 𝖆 𝖓𝖊𝖜 𝖋𝖎𝖑𝖊",
   author: process.env.PACK_AUTHER || "TOPU",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "TOP-Md",
-  ownername: process.env.OWNER_NAME || "TOPU",
+  botname: process.env.BOT_NAME || "EMEM-Md",
+  ownername: process.env.OWNER_NAME || "MEMELORD",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
